@@ -1,0 +1,492 @@
+@media(max-width: 1399px){
+.banner-section .content h1 {
+    font-size: 80px;
+}
+.banner-section .line {
+    width: 70%;
+}
+.banner-section .animation i {
+    top: 130%;
+}
+.banner-section .btn {
+    font-size: 16px;
+}
+.simple-section .content p {
+    font-size: 18px;
+}
+.simple-section .icon h4 {
+    font-size: 23px;
+}
+.simple-section .icon p {
+    font-size: 18px;
+}
+.work-section .content {
+    padding-top: 50px;
+}
+.work-section {
+    margin-bottom: 60px;
+}
+}
+@media(max-width: 1199px){
+nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    padding: 20px 14px;
+}
+.banner-section .content h1 {
+    font-size: 60px;
+}
+.banner-section .line {
+    width: 55%;
+}
+.banner-section p {
+    font-size: 17px;
+    margin: 8px 0;
+}
+.banner-section .btn {
+    font-size: 14px;
+}
+.banner-section .animation i {
+    font-size: 25px;
+}
+.simple-section .content {
+    padding-top: 40px;
+    padding-bottom: 35px;
+}
+.simple-section .content h3 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.simple-section .content p {
+    font-size: 15px;
+}
+.simple-section .icon i {
+    width: 85px;
+    height: 85px;
+    line-height: 85px;
+    font-size: 35px;
+}
+.simple-section .icon h4 {
+    font-size: 20px;
+    margin: 15px 0;
+}
+.simple-section .icon p {
+    font-size: 15px;
+}
+.simple-section .icon {
+    padding-bottom: 30px;
+}
+.work-section .content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.work-section .content h2 {
+    font-size: 30px;
+}
+.work-section .content p {
+    font-size: 17px;
+}
+.contact-section .contact-form h2 {
+    font-size: 35px;
+}
+.contact-section .contact-form p {
+    font-size: 12px;
+    margin: 12px 0 35px;
+}
+.contact-section {
+    padding: 50px 0;
+}
+.contact-section .contact-form form ul li input[type="submit"] {
+    line-height: 15px;
+    font-size: 15px;
+    padding: 10px 35px;
+    margin-top: -20px;
+    margin-right: 20px;
+}
+.contact-section .contact-form form ul li .box {
+    margin-left: -18px;
+    margin-top: 20px;
+}
+footer .social ul li i {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+}
+footer .copyright p {
+    padding: 20px 0;
+    font-size: 12px;
+}
+footer .social ul {
+    padding: 16px 0;
+}
+}
+@media(max-width: 991px){
+.navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+}
+.banner-section .content h1 {
+    font-size: 40px;
+}
+.banner-section p {
+    font-size: 14px;
+    margin: 5px 0;
+}
+.banner-section .btn {
+    font-size: 10px;
+    margin-top: 5px;
+}
+.banner-section .btn {
+    font-size: 10px;
+    margin-top: 5px;
+    padding: 8px 10px;
+}
+.banner-section .animation i {
+    font-size: 20px;
+}
+.simple-section .content h3 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.simple-section .content p {
+    font-size: 13px;
+}
+.simple-section .icon {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.simple-section .icon i {
+    width: 75px;
+    height: 75px;
+    line-height: 75px;
+    font-size: 25px;
+}
+.simple-section .icon h4 {
+    font-size: 19px;
+    margin: 15px 0 5px;
+}
+.simple-section .icon p {
+    font-size: 13px;
+}
+.work-section .content h2 {
+    font-size: 26px;
+}
+.work-section .content p {
+    font-size: 15px;
+}
+.work-section .content {
+    padding-top: 32px;
+    padding-bottom: 35px;
+}
+.contact-section .contact-form form input {
+    margin-bottom: 10px;
+    width: 450px;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 1px solid #999999;
+}
+.contact-section .contact-form form textarea {
+    border: 1px solid #999999;
+    width: 450px;
+    margin: auto;
+}
+.contact-section .contact-form form ul li .box {
+    margin-left: -180px;
+    margin-top: 18px;
+}
+.contact-section .contact-form form ul li label[class="p"] {
+/*    font-size: 11px;
+    color: #999999;
+    justify-content: end;*/
+    display: none;
+}
+.contact-section .contact-form form ul li input[type="submit"] {
+    line-height: 15px;
+    width: 100px;
+    font-size: 15px;
+    padding: 8px 25px;
+    margin-top: -20px;
+    margin-right: 70px;
+}	
+}
+@media(max-width: 767px){
+nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    padding: 10px 10px;
+    font-size: 14px;
+}
+.banner-section .content h1 {
+    font-size: 25px;
+}
+.banner-section p {
+    font-size: 12px;
+    margin: 2px 0;
+}
+.banner-section .btn {
+    font-size: 7px;
+    margin-top: 5px;
+    padding: 6px 6px;
+    border-radius: 0;
+}
+.banner-section .animation i {
+    font-size: 14px;
+}
+.simple-section .content h3 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.simple-section .content p {
+    font-size: 10px;
+}
+.simple-section .icon i {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 20px;
+}
+.simple-section .icon h4 {
+    font-size: 15px;
+    margin: 10px 0 5px;
+}
+.simple-section .icon p {
+    font-size: 11px;
+}
+.work-section .content h2 {
+    font-size: 22px;
+}
+.work-section .content p {
+    font-size: 13px;
+}
+.work-section {
+    margin-bottom: 30px;
+}
+.contact-section {
+    padding: 30px 0;
+}
+.contact-section .contact-form form {
+    width: 507px;
+}
+.contact-section .contact-form h2 {
+    font-size: 28px;
+}
+.contact-section .contact-form p {
+    font-size: 10px;
+    margin: 8px 0 20px;
+}
+.form-control {
+    font-size: 13px;
+}
+footer .social ul li i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    border-radius: 0;
+}
+footer .social ul {
+    padding: 12px 0;
+}
+footer .copyright p {
+    padding: 14px 0;
+    font-size: 10px;
+}	
+}
+@media(max-width: 575px){
+.navbar-nav {
+    flex-direction: column;
+    text-align: right;
+}
+nav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    padding: 6px 10px;
+    font-size: 12px;
+}
+.navbar-light .navbar-brand img{
+	width: 100px;
+}
+.banner-section .content h1 {
+    font-size: 15px;
+}
+.banner-section .line {
+    width: 40%;
+}
+.banner-section p {
+    font-size: 9px;
+    margin: 0;
+}
+.banner-section .btn {
+    font-size: 5px;
+    margin-top: 0;
+    padding: 4px 5px;
+}
+.banner-section .animation i {
+    font-size: 10px;
+    top: 110%;
+}
+.simple-section .content {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.simple-section .content h3 {
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+.simple-section .content p {
+    font-size: 8px;
+    margin-bottom: 0;
+}
+.simple-section .icon h4 {
+    font-size: 18px;
+    margin: 8px 0 6px;
+}
+.simple-section .icon p {
+    font-size: 10px;
+    padding: 0 74px;
+}
+.work-section .content {
+    padding-top: 17px;
+    padding-bottom: 20px;
+}
+.work-section .content h2 {
+    font-size: 17px;
+}
+.work-section .content p {
+    font-size: 11px;
+}
+.work-section {
+    margin-bottom: 0;
+}
+.contact-section .contact-form h2 {
+    font-size: 20px;
+}
+.contact-section .contact-form p {
+    font-size: 8px;
+    margin: 5px 0 10px;
+}
+.contact-section .contact-form form {
+    width: 287px;
+}
+.contact-section .contact-form form input {
+    width: 286px;
+}
+.contact-section .contact-form form textarea {
+    width: 286px;
+}
+.form-control {
+    font-size: 10px;
+}
+.contact-section .contact-form form ul li .box {
+    margin-left: -90px;
+    margin-top: 18px;
+}
+.contact-section .contact-form form ul li input[type="submit"] {
+    width: 78px;
+    font-size: 12px;
+    padding: 5px 21px;
+    margin-top: -33px;
+    margin-right: 100px;
+}
+.contact-section {
+    padding: 15px 0;
+}
+footer .copyright p {
+    display: none;
+}
+footer .social {
+    justify-content: center;
+}	
+}
+@media(max-width: 320px){
+.navbar-light .navbar-brand img {
+    width: 80px;
+}
+.banner-section .content h1 {
+    font-size: 10px;
+    margin-bottom: -12px;
+}
+.banner-section .line {
+    width: 40%;
+    height: 1px;
+}
+.banner-section p {
+    font-size: 6px;
+    margin: 0;
+    margin-top: -4px;
+}
+.banner-section .btn {
+    font-size: 4px;
+    margin-top: 0;
+    padding: 3px 4px;
+    border: 1px solid #15a4fa;
+}
+.banner-section .animation i {
+    display: none;
+}
+.simple-section .content h3 {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.simple-section .content p {
+    font-size: 4px;
+    margin-bottom: 0;
+}
+.simple-section .icon h4 {
+    font-size: 12px;
+    margin: 5px 0 6px;
+}
+.simple-section .icon p {
+    font-size: 9px;
+    padding: 0 31px;
+    margin-bottom: -10px;
+}
+.work-section .content {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.work-section .content h2 {
+    font-size: 10px;
+}
+.work-section .content p {
+    font-size: 7px;
+}
+.contact-section .contact-form h2 {
+    font-size: 16px;
+}
+.contact-section .contact-form p {
+    font-size: 5px;
+    margin: 3px 0 8px;
+}
+.contact-section .contact-form form {
+    display: none;
+}
+.contact-section .contact-form form input {
+    width: 169px;
+    margin: inherit;
+}
+.contact-section .contact-form form textarea {
+    max-width: 169px;
+    margin: inherit;
+}
+.contact-section .contact-form form ul li .box {
+    display: none;
+}
+.contact-section .contact-form form ul li input[type="submit"] {
+    font-size: 13px;
+    padding: 5px 22px;
+    margin-top: 8px;
+    margin-right: 163px;
+    max-width: 100px;
+}
+.form-control {
+    font-size: 8px;
+}
+footer .social ul {
+    padding: 8px 0;
+}
+footer .social ul li {
+    padding-right: 5px;
+}
+footer .social ul li i {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 10px;
+    border-radius: 0;
+}	
+}
